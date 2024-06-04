@@ -1,6 +1,11 @@
 'use client'
+import Link from 'next/link'
 import { useState } from 'react'
 
+const page = () => {
+  function addClassAndClub() {
+    const [val, setVal] = useState([])
+  }
 const Page = () => {
   const [clubs, setClubs] = useState([])
   const [classes, setClasses] = useState([])

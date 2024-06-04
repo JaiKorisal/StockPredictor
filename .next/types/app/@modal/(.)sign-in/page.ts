@@ -1,4 +1,4 @@
-// File: C:\Users\Jai Korisal\OneDrive\Desktop\StockPredictor\src\app\@modal\(.)sign-in\page.tsx
+// File: C:\Users\Jai Korisal\PycharmProjects\StockPrediction\WebApp\src\app\@modal\(.)sign-in\page.tsx
 import * as entry from '../../../../../src/app/@modal/(.)sign-in/page.js'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
