@@ -1,4 +1,4 @@
-StockPredictor
+## StockPredictor
 StockPredictor is a comprehensive stock market prediction platform leveraging advanced machine learning algorithms to forecast market prices across various time ranges, enabling users to make informed investment decisions.
 
 Architecture: 
