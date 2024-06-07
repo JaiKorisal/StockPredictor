@@ -3,11 +3,11 @@ StockPredictor is a comprehensive stock market prediction platform leveraging ad
 
 Architecture: 
 
-- Frontend: ReactJS
-- Backend: Next.js server
+- Frontend: NextJS- React by Vercel, JavaScript, TypeScript
+- Backend: Python - Flask
 - API Integrations: Alpha Vantage, Yahoo Finance, Coin Market Cap
 - Machine Learning Models: LSTM, RBF, SVM
-- Libraries & Tools: Python, Keras, scikit-learn, Jupyter
+- Libraries & Tools: Keras, scikit-learn, Jupyter, Pandas, etc
   
 Features: 
 
