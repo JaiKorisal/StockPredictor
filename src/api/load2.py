@@ -26,7 +26,7 @@ def predict_lstm(symbol):
     ticker = parameter
     # print ('Enter technical indicator')
     # TI = input()
-    api_key: str = 'NB4X36WJ9O2TMYWB'  # alphavantage input  apikey = "OX9WYUNX7MFOHQ0H" # jay's api key
+    api_key: str = 'xxxxxxxxxxxxxxxx'
     url_string = 'https://www.alphavantage.co/query?function=TIME_SERIES_DAILY&symbol={}&apikey={}'.format(ticker,
                                                                                                            api_key)
     file_to_save = 'stock-%s.csv' % ticker
